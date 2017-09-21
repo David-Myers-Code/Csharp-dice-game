@@ -1,0 +1,27 @@
+c:\users\dawhite\documents\visual studio 2013\Projects\Pig\Pig\bin\Debug\Pig.exe.config
+c:\users\dawhite\documents\visual studio 2013\Projects\Pig\Pig\obj\Debug\Pig.csprojResolveAssemblyReference.cache
+c:\users\dawhite\documents\visual studio 2013\Projects\Pig\Pig\bin\Debug\Pig.exe
+c:\users\dawhite\documents\visual studio 2013\Projects\Pig\Pig\bin\Debug\Pig.pdb
+c:\users\dawhite\documents\visual studio 2013\Projects\Pig\Pig\obj\Debug\Pig.exe
+c:\users\dawhite\documents\visual studio 2013\Projects\Pig\Pig\obj\Debug\Pig.pdb
+E:\Pig\Pig\bin\Debug\Pig.exe.config
+E:\Pig\Pig\obj\Debug\Pig.exe
+E:\Pig\Pig\obj\Debug\Pig.pdb
+E:\Pig\Pig\bin\Debug\Pig.exe
+E:\Pig\Pig\bin\Debug\Pig.pdb
+E:\Pig\Pig\obj\Debug\Pig.csprojResolveAssemblyReference.cache
+C:\Users\dawhite\Desktop\Pig\Pig\Pig\bin\Debug\Pig.exe.config
+C:\Users\dawhite\Desktop\Pig\Pig\Pig\obj\Debug\Pig.exe
+C:\Users\dawhite\Desktop\Pig\Pig\Pig\obj\Debug\Pig.pdb
+C:\Users\dawhite\Desktop\PigStarter\Pig\Pig\bin\Debug\Pig.exe.config
+C:\Users\dawhite\Desktop\PigStarter\Pig\Pig\obj\Debug\Pig.exe
+C:\Users\dawhite\Desktop\PigStarter\Pig\Pig\obj\Debug\Pig.pdb
+C:\Users\dawhite\Desktop\PigStarter\Pig\Pig\bin\Debug\Pig.exe
+C:\Users\dawhite\Desktop\PigStarter\Pig\Pig\bin\Debug\Pig.pdb
+C:\Users\dawhite\Desktop\PigStarter\Pig\Pig\obj\Debug\Pig.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\School\Week 6\Pig\Pig\bin\Debug\Pig.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\School\Week 6\Pig\Pig\obj\Debug\Pig.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\School\Week 6\Pig\Pig\obj\Debug\Pig.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\School\Week 6\Pig\Pig\bin\Debug\Pig.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\School\Week 6\Pig\Pig\bin\Debug\Pig.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\School\Week 6\Pig\Pig\obj\Debug\Pig.csprojResolveAssemblyReference.cache
